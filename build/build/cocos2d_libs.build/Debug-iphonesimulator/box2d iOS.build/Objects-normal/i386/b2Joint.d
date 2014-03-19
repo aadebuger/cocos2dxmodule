@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/external/Box2D/Dynamics/Joints/b2Joint.cpp \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2DistanceJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WheelJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MouseJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2GearJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WeldJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2FrictionJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RopeJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MotorJoint.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Users/aadebuger/Documents/mybaby2014/cocos2dx/MyGame/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h
